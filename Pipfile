@@ -11,6 +11,9 @@ pandas = "*"
 scipy = "*"
 scikit-learn = "*"
 requests = "*"
+kaggle = "*"
+nltk = "*"
+urlextract = "*"
 
 [dev-packages]
 
